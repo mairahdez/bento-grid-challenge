@@ -8,7 +8,7 @@ El desafío consistió en replicar un diseño de cuadrícula tipo "Bento" (popul
 
 ### Captura de Pantalla
 ![Diseño Final](./design/desktop-preview.jpg)
-*(Nota: Asegúrate de tener una imagen en esa ruta o cambia el link por la URL de tu imagen)*
+
 
 ---
 
@@ -31,6 +31,7 @@ grid-template-areas:
   "create  social   social   schedule"
   "create  manage   maintain schedule"
   "write   grow     audience schedule";
+```
 
 ### 2. Desbordamientos e Imágenes
 Para lograr el efecto donde las imágenes parecen salir de la tarjeta o están cortadas:
@@ -63,7 +64,7 @@ The challenge involved replicating a "Bento" style grid layout (popularized by A
 
 ### Screenshot
 ![Final Design](./design/desktop-preview.jpg)
-*(Note: Ensure you have an image at this path or update the link with your image URL)*
+
 
 ---
 
@@ -86,7 +87,7 @@ grid-template-areas:
   "create  social   social   schedule"
   "create  manage   maintain schedule"
   "write   grow     audience schedule";
-
+```
 ### 2. Overflows and Images
 To achieve the effect where images appear to "pop out" of the card or are cropped:
 
