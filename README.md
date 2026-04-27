@@ -9,6 +9,7 @@ El desafío consistió en replicar un diseño de cuadrícula tipo "Bento" (popul
 ### Captura de Pantalla
 ![Diseño Final](./design/desktop-preview.jpg)
 
+https://mairahdez.github.io/bento-grid-challenge/
 
 ---
 
@@ -65,7 +66,7 @@ The challenge involved replicating a "Bento" style grid layout (popularized by A
 ### Screenshot
 ![Final Design](./design/desktop-preview.jpg)
 
-
+https://mairahdez.github.io/bento-grid-challenge/
 ---
 
 ## 🛠️ Technologies Used
